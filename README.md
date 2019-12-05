@@ -22,3 +22,31 @@
 
 - OR
 - Stochastics
+
+
+## Third Year
+### First Term
+
+- Algorithms
+- Network
+- Compiler
+- Assembly
+- Logic Programming
+
+### Second Term
+
+- Computer Architecture 
+- Software Engineering
+
+
+## Fourth Year
+### First Term
+
+- Image Processing
+- Operating Systems
+- Network
+- Dynamic Languages
+- Data Mining
+
+### Second Term
+
