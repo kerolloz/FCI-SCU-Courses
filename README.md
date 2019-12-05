@@ -12,12 +12,14 @@
 
 #### 2nd Term
 
+- Introduction to Object Oriented Programming (OOP in C++) 
 - Linear algebra
 - Statistics 
 
 ## :two: Second Year
 #### 1st Term
 
+- Introduction to Data Structures In C 
 - ODE
 - Advanced mathematics 
 
