@@ -53,7 +53,7 @@
 
 - Image Processing
 - Operating Systems
-- Network
+- Data Communication (Network)
 - Dynamic Languages
 - Data Mining
 
