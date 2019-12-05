@@ -1,7 +1,7 @@
 # FCI-SCU Courses
 >Faculty of Computers and Informatics - Suez Canal University
 
-## First Year
+## :one: First Year
 ### First Term
 
 - Calculus 
@@ -12,7 +12,7 @@
 - Linear algebra
 - Statistics 
 
-## Second Year
+## :two: Second Year
 ### First Term
 
 - ODE
@@ -24,7 +24,7 @@
 - Stochastics
 
 
-## Third Year
+## :three: Third Year
 ### First Term
 
 - Algorithms
@@ -39,7 +39,7 @@
 - Software Engineering
 
 
-## Fourth Year
+## :four: Fourth Year
 ### First Term
 
 - Image Processing
