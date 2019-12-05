@@ -1,4 +1,4 @@
-# FCI-SCU syllabus
+# FCI-SCU Courses
 >Faculty of Computers and Informatics - Suez Canal University
 
 ## First Year
