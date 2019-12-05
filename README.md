@@ -21,8 +21,8 @@
 #### 1st Term
 
 - Introduction to Data Structures In C 
-- ODE
-- Advanced mathematics 
+- Ordinary Differential Equation (ODE)
+- Advanced Mathematics 
 
 #### 2nd Term
 
@@ -35,9 +35,12 @@
 ## :three: Third Year
 #### 1st Term
 
-- Algorithms
-- Network
-- Assembly
+- Algorithms Analysis and Design
+- Introduction to Computer Networks
+- Assembly Language
+- Graphics
+- Web Programming
+- Concepts of Programming Languages 
 
 #### 2nd Term
 
