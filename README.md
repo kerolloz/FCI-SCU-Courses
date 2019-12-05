@@ -13,8 +13,9 @@
 #### 2nd Term
 
 - Introduction to Object Oriented Programming (OOP in C++) 
-- Linear algebra
-- Statistics 
+- Introduction to Database Systems 
+- Linear Algebra
+- Statistics and Propability
 
 ## :two: Second Year
 #### 1st Term
@@ -25,24 +26,27 @@
 
 #### 2nd Term
 
-- OR
+- File Processing 
+- Information Theory 
+- Operation Research
 - Stochastics
-
+- Physics
 
 ## :three: Third Year
 #### 1st Term
 
 - Algorithms
 - Network
-- Compiler
 - Assembly
-- Logic Programming
 
 #### 2nd Term
 
+- Neural Networks
+- Logic Programming
 - Computer Architecture 
 - Software Engineering
-
+- Compiler Theory and Design 
+- Simulation and Modeling
 
 ## :four: Fourth Year
 #### 1st Term
@@ -55,3 +59,8 @@
 
 #### 2nd Term
 
+- Distributed Systems
+- Parallel Processing
+- Computer Vision
+- Artificial Intelligence
+- Arabization
