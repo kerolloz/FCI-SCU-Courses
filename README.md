@@ -2,30 +2,30 @@
 >Faculty of Computers and Informatics - Suez Canal University
 
 ## :one: First Year
-### First Term
+#### 1st Term
 
 - Calculus 
 - Discrete Mathematics
 
-### Second Term
+#### 2nd Term
 
 - Linear algebra
 - Statistics 
 
 ## :two: Second Year
-### First Term
+#### 1st Term
 
 - ODE
 - Advanced mathematics 
 
-### Second Term
+#### 2nd Term
 
 - OR
 - Stochastics
 
 
 ## :three: Third Year
-### First Term
+#### 1st Term
 
 - Algorithms
 - Network
@@ -33,14 +33,14 @@
 - Assembly
 - Logic Programming
 
-### Second Term
+#### 2nd Term
 
 - Computer Architecture 
 - Software Engineering
 
 
 ## :four: Fourth Year
-### First Term
+#### 1st Term
 
 - Image Processing
 - Operating Systems
@@ -48,5 +48,5 @@
 - Dynamic Languages
 - Data Mining
 
-### Second Term
+#### 2nd Term
 
