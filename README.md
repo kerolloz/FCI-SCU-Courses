@@ -4,6 +4,9 @@
 ## :one: First Year
 #### 1st Term
 
+- Introduction to programming (C Programming Language)
+- Introduction to Computer Science
+- Introduction to Information Systems
 - Calculus 
 - Discrete Mathematics
 
