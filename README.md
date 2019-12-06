@@ -158,14 +158,16 @@ Fourth Year
 
 ## Fourth Year
 
-### 1st Term
-
 <table style="width: 100%;display: table;">
   <thead>
+    <tr>
+      <th style="text-align: center;">1st Term</th>
+    </tr>
     <tr>
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
     </tr>
+
   </thead>
   <tbody>
     <tr>
