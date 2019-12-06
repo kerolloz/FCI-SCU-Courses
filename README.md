@@ -4,41 +4,27 @@
 
 ## First Year
 
-|                          First Term                           |
-| :-----------------------------------------------------------: |
-| Introduction to Computer Programming (C Programming Language) |
-|               Introduction to Computer Science                |
-|              Introduction to Information Systems              |
-|                           Calculus                            |
-|                     Discrete Mathematics                      |
-
-|                       Second Term                        |
-| :------------------------------------------------------: |
-| Introduction to Object Oriented Programming (OOP in C++) |
-|             Introduction to Database Systems             |
-|                      Linear Algebra                      |
-|                Statistics and Propability                |
-|                                                          |
+|                          First Term                           |                       Second Term                        |
+| :-----------------------------------------------------------: | :------------------------------------------------------: |
+| Introduction to Computer Programming (C Programming Language) | Introduction to Object Oriented Programming (OOP in C++) |
+|               Introduction to Computer Science                |             Introduction to Database Systems             |
+|              Introduction to Information Systems              |                      Linear Algebra                      |
+|                           Calculus                            |                Statistics and Propability                |
+|                     Discrete Mathematics                      |                                                          |
 
 ## Second Year
 
-|              First Term              |
-| :----------------------------------: |
-| Introduction to Data Structures In C |
-| Ordinary Differential Equation (ODE) |
-|         Advanced Mathematics         |
-|         Basics of Multimedia         |
-|      System Analysis and Design      |
-
-|    Second Term     |
-| :----------------: |
-|  File Processing   |
-| Information Theory |
-| Operation Research |
-|    Stochastics     |
-|      Physics       |
+|              First Term              |    Second Term     |
+| :----------------------------------: | :----------------: |
+| Introduction to Data Structures In C |  File Processing   |
+| Ordinary Differential Equation (ODE) | Information Theory |
+|         Advanced Mathematics         | Operation Research |
+|         Basics of Multimedia         |    Stochastics     |
+|      System Analysis and Design      |      Physics       |
 
 ## Third Year
+
+### 1st Term
 
 |                CS                 |              IS               |
 | :-------------------------------: | :---------------------------: |
@@ -49,7 +35,7 @@
 | Introduction to Computer Networks |          E-Business           |
 | Concepts of Programming Languages |        Web Programming        |
 
----
+### 2nd Term
 
 |             CS             |                 IS                 |
 | :------------------------: | :--------------------------------: |
@@ -62,6 +48,8 @@
 
 ## Fourth Year
 
+### 1st Term
+
 |              CS              |             IS              |
 | :--------------------------: | :-------------------------: |
 |   Digital Image Processing   |       Bioinformatics        |
@@ -70,7 +58,7 @@
 |      Dynamic Languages       |         Data Mining         |
 |         Data Mining          |   Knowledge Based Systems   |
 
----
+### 2nd Term
 
 |           CS            |               IS               |
 | :---------------------: | :----------------------------: |
