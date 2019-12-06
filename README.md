@@ -1,7 +1,7 @@
 # FCI-SCU Courses
->Faculty of Computers and Informatics - Suez Canal University
+>Courses taught at Faculty of Computers and Informatics - Suez Canal University 2016-2020
 
-## :one: First Year
+## First Year
 #### 1st Term
 
 - Introduction to Computer Programming (C Programming Language)
@@ -17,7 +17,7 @@
 - Linear Algebra
 - Statistics and Propability
 
-## :two: Second Year
+## Second Year
 #### 1st Term
 
 - Introduction to Data Structures In C 
@@ -34,7 +34,7 @@
 - Stochastics
 - Physics
 
-## :three: Third Year
+## Third Year
 #### 1st Term
 
 - Algorithm Analysis and Design
@@ -53,7 +53,7 @@
 - Compiler Theory and Design 
 - Simulation and Modeling
 
-## :four: Fourth Year
+## Fourth Year
 #### 1st Term
 
 - Digital Image Processing
