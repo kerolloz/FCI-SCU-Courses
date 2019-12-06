@@ -85,6 +85,8 @@ Fourth Year
   <thead>
      <tr>
       <th style="text-align: center;" colspan="2">1st Term</th>
+    </tr>
+    <tr>
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
     </tr>
@@ -154,6 +156,8 @@ Fourth Year
   <thead>
      <tr>
       <th style="text-align: center;" colspan="2">1st Term</th>
+    </tr>
+    <tr>
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
     </tr>
