@@ -82,11 +82,13 @@ Fourth Year
 ## Third Year
 
 <table style="width: 100%;display: table;">
-
   <thead>
+     <tr>
+      <th style="text-align: center;" colspan="2"><h3>1st Term</h3></th>
+    </tr>
     <tr>
-      <th style="text-align: center; width: 50%"><h3>CS</h3></th>
-      <th style="text-align: center; width: 50%"><h3>IS</h3></th>
+      <th style="text-align: center; width: 50%"><h4>CS</h4></th>
+      <th style="text-align: center; width: 50%"><h4>IS</h4></th>
     </tr>
   </thead>
   <tbody>
@@ -119,12 +121,12 @@ Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
-    <tr>
-      <th style="text-align: center;" colspan="2">2nd Term</th>
+     <tr>
+      <th style="text-align: center;" colspan="2"><h3>2nd Term</h3></th>
     </tr>
     <tr>
-      <th style="text-align: center; width: 50%">CS</th>
-      <th style="text-align: center; width: 50%">IS</th>
+      <th style="text-align: center; width: 50%"><h4>CS</h4></th>
+      <th style="text-align: center; width: 50%"><h4>IS</h4></th>
     </tr>
   </thead>
   <tbody>
@@ -159,12 +161,12 @@ Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
-    <tr>
-      <th style="text-align: center;" colspan="2">1st Term</th>
+     <tr>
+      <th style="text-align: center;" colspan="2"><h3>1st Term</h3></th>
     </tr>
     <tr>
-      <th style="text-align: center; width: 50%">CS</th>
-      <th style="text-align: center; width: 50%">IS</th>
+      <th style="text-align: center; width: 50%"><h4>CS</h4></th>
+      <th style="text-align: center; width: 50%"><h4>IS</h4></th>
     </tr>
   </thead>
   <tbody>
@@ -193,12 +195,12 @@ Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
-    <tr>
-      <th style="text-align: center;" colspan="2">2nd Term</th>
+     <tr>
+      <th style="text-align: center;" colspan="2"><h3>2nd Term</h3></th>
     </tr>
     <tr>
-      <th style="text-align: center; width: 50%">CS</th>
-      <th style="text-align: center; width: 50%">IS</th>
+      <th style="text-align: center; width: 50%"><h4>CS</h4></th>
+      <th style="text-align: center; width: 50%"><h4>IS</h4></th>
     </tr>
   </thead>
   <tbody>
