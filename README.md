@@ -25,7 +25,7 @@ Fourth Year
   <tbody>
     <tr>
       <td style="text-align: center; width: 50%">Introduction to Computer Programming <br> (C Programming Language)</td>
-      <td style="text-align: center; width: 50%">Introduction to Object Oriented Programming (OOP in C++)</td>
+      <td style="text-align: center; width: 50%">Introduction to Object Oriented Programming <br> (OOP in C++)</td>
     </tr>
     <tr>
       <td style="text-align: center; width: 50%">Introduction to Computer Science</td>
