@@ -85,8 +85,8 @@ Fourth Year
 
   <thead>
     <tr>
-      <th style="text-align: center; width: 50%">CS</th>
-      <th style="text-align: center; width: 50%">IS</th>
+      <th style="text-align: center; width: 50%"><h3>CS</h3></th>
+      <th style="text-align: center; width: 50%"><h3>IS</h3></th>
     </tr>
   </thead>
   <tbody>
