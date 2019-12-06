@@ -117,9 +117,6 @@ Fourth Year
       <td style="text-align: center; width: 50%">Web Programming</td>
     </tr>
   </tbody>
-</table>
-
-<table style="width: 100%;display: table;">
   <thead>
      <tr>
       <th style="text-align: center;" colspan="2">2nd Term</th>
@@ -191,9 +188,6 @@ Fourth Year
       <td style="text-align: center; width: 50%">Knowledge Based Systems</td>
     </tr>
   </tbody>
-</table>
-
-<table style="width: 100%;display: table;">
   <thead>
      <tr>
       <th style="text-align: center;" colspan="2">2nd Term</th>
