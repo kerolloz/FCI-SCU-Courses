@@ -1,3 +1,14 @@
+title               : Faculty of Computers and Informatics - Suez Canal University
+repository          : kerolloz/FCI-SCU-Courses   # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+
+author:
+  name              : Kerollos Magdy
+  email             : kerolloz@yahoo.com
+  facebook          : kerolloz
+  github            : kerolloz
+  linkedin          : kerolloz
+  twitter           : kerolloz
+  
 remote_theme: YoussefRaafatNasry/portfolYOU
 plugins:
   - jemoji
