@@ -4,73 +4,78 @@
 
 ## First Year
 
-- Introduction to Computer Programming (C Programming Language)
-- Introduction to Computer Science
-- Introduction to Information Systems
-- Calculus
-- Discrete Mathematics
+|                          First Term                           |
+| :-----------------------------------------------------------: |
+| Introduction to Computer Programming (C Programming Language) |
+|               Introduction to Computer Science                |
+|              Introduction to Information Systems              |
+|                           Calculus                            |
+|                     Discrete Mathematics                      |
 
----
-
-- Introduction to Object Oriented Programming (OOP in C++)
-- Introduction to Database Systems
-- Linear Algebra
-- Statistics and Propability
-
-|                          First Term                           |                       Second Term                        |
-| :-----------------------------------------------------------: | :------------------------------------------------------: |
-| Introduction to Computer Programming (C Programming Language) | Introduction to Object Oriented Programming (OOP in C++) |
-|               Introduction to Computer Science                |             Introduction to Database Systems             |
-|              Introduction to Information Systems              |                      Linear Algebra                      |
-|                           Calculus                            |                Statistics and Propability                |
-|                     Discrete Mathematics                      |                                                          |
+|                       Second Term                        |
+| :------------------------------------------------------: |
+| Introduction to Object Oriented Programming (OOP in C++) |
+|             Introduction to Database Systems             |
+|                      Linear Algebra                      |
+|                Statistics and Propability                |
+|                                                          |
 
 ## Second Year
 
-- Introduction to Data Structures In C
-- Ordinary Differential Equation (ODE)
-- Advanced Mathematics
-- Basics of Multimedia
-- System Analysis and Design
+|              First Term              |
+| :----------------------------------: |
+| Introduction to Data Structures In C |
+| Ordinary Differential Equation (ODE) |
+|         Advanced Mathematics         |
+|         Basics of Multimedia         |
+|      System Analysis and Design      |
 
----
-
-- File Processing
-- Information Theory
-- Operation Research
-- Stochastics
-- Physics
+|    Second Term     |
+| :----------------: |
+|  File Processing   |
+| Information Theory |
+| Operation Research |
+|    Stochastics     |
+|      Physics       |
 
 ## Third Year
 
-- Algorithm Analysis and Design
-- Introduction to Computer Networks
-- Assembly Language
-- Computer Graphics
-- Web Programming
-- Concepts of Programming Languages
+|                CS                 |              IS               |
+| :-------------------------------: | :---------------------------: |
+|          Web Programming          | Computer Networks Management  |
+|         Computer Graphics         |   Decision Support Systems    |
+|         Assembly Language         | Information Retrieval Systems |
+|   Algorithm Analysis and Design   |   Object Oriented Database    |
+| Introduction to Computer Networks |          E-Business           |
+| Concepts of Programming Languages |        Web Programming        |
 
 ---
 
-- Neural Networks
-- Logic Programming
-- Computer Architecture
-- Software Engineering
-- Compiler Theory and Design
-- Simulation and Modeling
+|             CS             |                 IS                 |
+| :------------------------: | :--------------------------------: |
+|      Neural Networks       |        Multimedia Database         |
+|     Logic Programming      |        Information Security        |
+|   Computer Architecture    |            E-Government            |
+|    Software Engineering    |          Serial Database           |
+| Compiler Theory and Design |     Multidimensional Database      |
+|  Simulation and Modeling   | Management of Organization Network |
 
 ## Fourth Year
 
-- Digital Image Processing
-- Operating Systems Concepts
-- Data Communication (Network)
-- Dynamic Languages
-- Data Mining
+|              CS              |             IS              |
+| :--------------------------: | :-------------------------: |
+|   Digital Image Processing   |       Bioinformatics        |
+|  Operating Systems Concepts  |   Web Information Systems   |
+| Data Communication (Network) | Medical Information Systems |
+|      Dynamic Languages       |         Data Mining         |
+|         Data Mining          |   Knowledge Based Systems   |
 
 ---
 
-- Distributed Systems
-- Parallel Processing
-- Computer Vision
-- Artificial Intelligence
-- Arabization
+|           CS            |               IS               |
+| :---------------------: | :----------------------------: |
+|   Distributed Systems   |      Distributed Database      |
+|   Parallel Processing   |         Data Warehouse         |
+|     Computer Vision     |       Electronic Health        |
+| Artificial Intelligence | Geographic Information Systems |
+|       Arabization       |         Expert Systems         |
