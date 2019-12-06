@@ -4,7 +4,7 @@
 ## :one: First Year
 #### 1st Term
 
-- Introduction to programming (C Programming Language)
+- Introduction to Computer Programming (C Programming Language)
 - Introduction to Computer Science
 - Introduction to Information Systems
 - Calculus 
@@ -23,6 +23,8 @@
 - Introduction to Data Structures In C 
 - Ordinary Differential Equation (ODE)
 - Advanced Mathematics 
+- Basics of Multimedia
+- System Analysis and Design
 
 #### 2nd Term
 
@@ -35,10 +37,10 @@
 ## :three: Third Year
 #### 1st Term
 
-- Algorithms Analysis and Design
+- Algorithm Analysis and Design
 - Introduction to Computer Networks
 - Assembly Language
-- Graphics
+- Computer Graphics
 - Web Programming
 - Concepts of Programming Languages 
 
@@ -54,8 +56,8 @@
 ## :four: Fourth Year
 #### 1st Term
 
-- Image Processing
-- Operating Systems
+- Digital Image Processing
+- Operating Systems Concepts
 - Data Communication (Network)
 - Dynamic Languages
 - Data Mining
