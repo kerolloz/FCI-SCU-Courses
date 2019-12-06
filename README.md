@@ -11,7 +11,7 @@ Fourth Year
 
 {% include elements/list.html title="Years" type="toc" %}
 
-{% include elements/figure.html image="http://ci.scuegypt.edu.eg/img/100100.JPG" caption="Watch out, Don't get too close!" %}
+{% include elements/figure.html image="fci.JPG" caption="Watch out, Don't get too close!" %}
 
 ## First Year
 
