@@ -1,6 +1,6 @@
 # FCI-SCU Courses
 
-> Courses taught at Faculty of Computers and Informatics - Suez Canal University 2016-2020
+> Courses taught at Faculty of Computers and Informatics - Suez Canal University _2016-2020_
 
 {%- capture list_items -%}
 First Year
@@ -9,17 +9,19 @@ Third Year
 Fourth Year
 {%- endcapture -%}
 
-{% include elements/list.html title="Table of Contents" type="toc" %}
+{% include elements/list.html title="Years" type="toc" %}
+
+{% include elements/figure.html image="http://ci.scuegypt.edu.eg/img/100100.JPG" caption="Watch out, Don't get too close!" %}
 
 ## First Year
 
-|                          First Term                           |                       Second Term                        |
-| :-----------------------------------------------------------: | :------------------------------------------------------: |
-| Introduction to Computer Programming (C Programming Language) | Introduction to Object Oriented Programming (OOP in C++) |
-|               Introduction to Computer Science                |             Introduction to Database Systems             |
-|              Introduction to Information Systems              |                      Linear Algebra                      |
-|                           Calculus                            |                Statistics and Propability                |
-|                     Discrete Mathematics                      |                                                          |
+|                           First Term                            |                       Second Term                        |
+| :-------------------------------------------------------------: | :------------------------------------------------------: |
+| Introduction into Computer Programming (C Programming Language) | Introduction to Object Oriented Programming (OOP in C++) |
+|                Introduction to Computer Science                 |             Introduction to Database Systems             |
+|               Introduction to Information Systems               |                      Linear Algebra                      |
+|                            Calculus                             |                Statistics and Propability                |
+|                      Discrete Mathematics                       |                                                          |
 
 ## Second Year
 
