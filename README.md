@@ -94,7 +94,7 @@ Fourth Year
   <tbody>
     <tr>
       <td style="text-align: center; width: 50%">Web Programming</td>
-      <td style="text-align: center; width: 50%">Computer Networks Management</td>
+      <td style="text-align: center; width: 50%">Web Programming</td>
     </tr>
     <tr>
       <td style="text-align: center; width: 50%">Computer Graphics</td>
@@ -114,8 +114,9 @@ Fourth Year
     </tr>
     <tr>
       <td style="text-align: center; width: 50%">Concepts of Programming Languages</td>
-      <td style="text-align: center; width: 50%">Web Programming</td>
+      <td style="text-align: center; width: 50%">Computer Networks Management</td>
     </tr>
+
   </tbody>
   <thead>
      <tr>
@@ -177,12 +178,14 @@ Fourth Year
     </tr>
     <tr>
       <td style="text-align: center; width: 50%">Dynamic Languages</td>
-      <td style="text-align: center; width: 50%">Data Mining</td>
+      <td style="text-align: center; width: 50%">Knowledge Based Systems</td>
     </tr>
     <tr>
       <td style="text-align: center; width: 50%">Data Mining</td>
-      <td style="text-align: center; width: 50%">Knowledge Based Systems</td>
+      <td style="text-align: center; width: 50%">Data Mining</td>
+
     </tr>
+
   </tbody>
   <thead>
      <tr>
