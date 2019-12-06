@@ -18,30 +18,30 @@ Fourth Year
 <table style="width: 100%;display: table;">
   <thead>
     <tr>
-      <th style="text-align: center">First Term</th>
-      <th style="text-align: center">Second Term</th>
+      <th style="text-align: center; width: 50%">First Term</th>
+      <th style="text-align: center; width: 50%">Second Term</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Introduction to Computer Programming <br> (C Programming Language)</td>
-      <td style="text-align: center">Introduction to Object Oriented Programming (OOP in C++)</td>
+      <td style="text-align: center; width: 50%">Introduction to Computer Programming <br> (C Programming Language)</td>
+      <td style="text-align: center; width: 50%">Introduction to Object Oriented Programming (OOP in C++)</td>
     </tr>
     <tr>
-      <td style="text-align: center">Introduction to Computer Science</td>
-      <td style="text-align: center">Introduction to Database Systems</td>
+      <td style="text-align: center; width: 50%">Introduction to Computer Science</td>
+      <td style="text-align: center; width: 50%">Introduction to Database Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Introduction to Information Systems</td>
-      <td style="text-align: center">Linear Algebra</td>
+      <td style="text-align: center; width: 50%">Introduction to Information Systems</td>
+      <td style="text-align: center; width: 50%">Linear Algebra</td>
     </tr>
     <tr>
-      <td style="text-align: center">Calculus</td>
-      <td style="text-align: center">Statistics and Propability</td>
+      <td style="text-align: center; width: 50%">Calculus</td>
+      <td style="text-align: center; width: 50%">Statistics and Propability</td>
     </tr>
     <tr>
-      <td style="text-align: center">Discrete Mathematics</td>
-      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center; width: 50%">Discrete Mathematics</td>
+      <td style="text-align: center; width: 50%">&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -51,30 +51,30 @@ Fourth Year
 <table style="width: 100%;display: table;">
   <thead>
     <tr>
-      <th style="text-align: center">First Term</th>
-      <th style="text-align: center">Second Term</th>
+      <th style="text-align: center; width: 50%">First Term</th>
+      <th style="text-align: center; width: 50%">Second Term</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Introduction to Data Structures In C</td>
-      <td style="text-align: center">File Processing</td>
+      <td style="text-align: center; width: 50%">Introduction to Data Structures In C</td>
+      <td style="text-align: center; width: 50%">File Processing</td>
     </tr>
     <tr>
-      <td style="text-align: center">Ordinary Differential Equation (ODE)</td>
-      <td style="text-align: center">Information Theory</td>
+      <td style="text-align: center; width: 50%">Ordinary Differential Equation (ODE)</td>
+      <td style="text-align: center; width: 50%">Information Theory</td>
     </tr>
     <tr>
-      <td style="text-align: center">Advanced Mathematics</td>
-      <td style="text-align: center">Operation Research</td>
+      <td style="text-align: center; width: 50%">Advanced Mathematics</td>
+      <td style="text-align: center; width: 50%">Operation Research</td>
     </tr>
     <tr>
-      <td style="text-align: center">Basics of Multimedia</td>
-      <td style="text-align: center">Stochastics</td>
+      <td style="text-align: center; width: 50%">Basics of Multimedia</td>
+      <td style="text-align: center; width: 50%">Stochastics</td>
     </tr>
     <tr>
-      <td style="text-align: center">System Analysis and Design</td>
-      <td style="text-align: center">Physics</td>
+      <td style="text-align: center; width: 50%">System Analysis and Design</td>
+      <td style="text-align: center; width: 50%">Physics</td>
     </tr>
   </tbody>
 </table>
@@ -87,34 +87,34 @@ Fourth Year
 
   <thead>
     <tr>
-      <th style="text-align: center">CS</th>
-      <th style="text-align: center">IS</th>
+      <th style="text-align: center; width: 50%">CS</th>
+      <th style="text-align: center; width: 50%">IS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Web Programming</td>
-      <td style="text-align: center">Computer Networks Management</td>
+      <td style="text-align: center; width: 50%">Web Programming</td>
+      <td style="text-align: center; width: 50%">Computer Networks Management</td>
     </tr>
     <tr>
-      <td style="text-align: center">Computer Graphics</td>
-      <td style="text-align: center">Decision Support Systems</td>
+      <td style="text-align: center; width: 50%">Computer Graphics</td>
+      <td style="text-align: center; width: 50%">Decision Support Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Assembly Language</td>
-      <td style="text-align: center">Information Retrieval Systems</td>
+      <td style="text-align: center; width: 50%">Assembly Language</td>
+      <td style="text-align: center; width: 50%">Information Retrieval Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Algorithm Analysis and Design</td>
-      <td style="text-align: center">Object Oriented Database</td>
+      <td style="text-align: center; width: 50%">Algorithm Analysis and Design</td>
+      <td style="text-align: center; width: 50%">Object Oriented Database</td>
     </tr>
     <tr>
-      <td style="text-align: center">Introduction to Computer Networks</td>
-      <td style="text-align: center">E-Business</td>
+      <td style="text-align: center; width: 50%">Introduction to Computer Networks</td>
+      <td style="text-align: center; width: 50%">E-Business</td>
     </tr>
     <tr>
-      <td style="text-align: center">Concepts of Programming Languages</td>
-      <td style="text-align: center">Web Programming</td>
+      <td style="text-align: center; width: 50%">Concepts of Programming Languages</td>
+      <td style="text-align: center; width: 50%">Web Programming</td>
     </tr>
   </tbody>
 </table>
@@ -124,34 +124,34 @@ Fourth Year
 <table style="width: 100%;display: table;">
   <thead>
     <tr>
-      <th style="text-align: center">CS</th>
-      <th style="text-align: center">IS</th>
+      <th style="text-align: center; width: 50%">CS</th>
+      <th style="text-align: center; width: 50%">IS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Neural Networks</td>
-      <td style="text-align: center">Multimedia Database</td>
+      <td style="text-align: center; width: 50%">Neural Networks</td>
+      <td style="text-align: center; width: 50%">Multimedia Database</td>
     </tr>
     <tr>
-      <td style="text-align: center">Logic Programming</td>
-      <td style="text-align: center">Information Security</td>
+      <td style="text-align: center; width: 50%">Logic Programming</td>
+      <td style="text-align: center; width: 50%">Information Security</td>
     </tr>
     <tr>
-      <td style="text-align: center">Computer Architecture</td>
-      <td style="text-align: center">E-Government</td>
+      <td style="text-align: center; width: 50%">Computer Architecture</td>
+      <td style="text-align: center; width: 50%">E-Government</td>
     </tr>
     <tr>
-      <td style="text-align: center">Software Engineering</td>
-      <td style="text-align: center">Serial Database</td>
+      <td style="text-align: center; width: 50%">Software Engineering</td>
+      <td style="text-align: center; width: 50%">Serial Database</td>
     </tr>
     <tr>
-      <td style="text-align: center">Compiler Theory and Design</td>
-      <td style="text-align: center">Multidimensional Database</td>
+      <td style="text-align: center; width: 50%">Compiler Theory and Design</td>
+      <td style="text-align: center; width: 50%">Multidimensional Database</td>
     </tr>
     <tr>
-      <td style="text-align: center">Simulation and Modeling</td>
-      <td style="text-align: center">Management of Organization Network</td>
+      <td style="text-align: center; width: 50%">Simulation and Modeling</td>
+      <td style="text-align: center; width: 50%">Management of Organization Network</td>
     </tr>
   </tbody>
 </table>
@@ -163,30 +163,30 @@ Fourth Year
 <table style="width: 100%;display: table;">
   <thead>
     <tr>
-      <th style="text-align: center">CS</th>
-      <th style="text-align: center">IS</th>
+      <th style="text-align: center; width: 50%">CS</th>
+      <th style="text-align: center; width: 50%">IS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Digital Image Processing</td>
-      <td style="text-align: center">Bioinformatics</td>
+      <td style="text-align: center; width: 50%">Digital Image Processing</td>
+      <td style="text-align: center; width: 50%">Bioinformatics</td>
     </tr>
     <tr>
-      <td style="text-align: center">Operating Systems Concepts</td>
-      <td style="text-align: center">Web Information Systems</td>
+      <td style="text-align: center; width: 50%">Operating Systems Concepts</td>
+      <td style="text-align: center; width: 50%">Web Information Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Data Communication (Network)</td>
-      <td style="text-align: center">Medical Information Systems</td>
+      <td style="text-align: center; width: 50%">Data Communication (Network)</td>
+      <td style="text-align: center; width: 50%">Medical Information Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Dynamic Languages</td>
-      <td style="text-align: center">Data Mining</td>
+      <td style="text-align: center; width: 50%">Dynamic Languages</td>
+      <td style="text-align: center; width: 50%">Data Mining</td>
     </tr>
     <tr>
-      <td style="text-align: center">Data Mining</td>
-      <td style="text-align: center">Knowledge Based Systems</td>
+      <td style="text-align: center; width: 50%">Data Mining</td>
+      <td style="text-align: center; width: 50%">Knowledge Based Systems</td>
     </tr>
   </tbody>
 </table>
@@ -196,30 +196,30 @@ Fourth Year
 <table style="width: 100%;display: table;">
   <thead>
     <tr>
-      <th style="text-align: center">CS</th>
-      <th style="text-align: center">IS</th>
+      <th style="text-align: center; width: 50%">CS</th>
+      <th style="text-align: center; width: 50%">IS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">Distributed Systems</td>
-      <td style="text-align: center">Distributed Database</td>
+      <td style="text-align: center; width: 50%">Distributed Systems</td>
+      <td style="text-align: center; width: 50%">Distributed Database</td>
     </tr>
     <tr>
-      <td style="text-align: center">Parallel Processing</td>
-      <td style="text-align: center">Data Warehouse</td>
+      <td style="text-align: center; width: 50%">Parallel Processing</td>
+      <td style="text-align: center; width: 50%">Data Warehouse</td>
     </tr>
     <tr>
-      <td style="text-align: center">Computer Vision</td>
-      <td style="text-align: center">Electronic Health</td>
+      <td style="text-align: center; width: 50%">Computer Vision</td>
+      <td style="text-align: center; width: 50%">Electronic Health</td>
     </tr>
     <tr>
-      <td style="text-align: center">Artificial Intelligence</td>
-      <td style="text-align: center">Geographic Information Systems</td>
+      <td style="text-align: center; width: 50%">Artificial Intelligence</td>
+      <td style="text-align: center; width: 50%">Geographic Information Systems</td>
     </tr>
     <tr>
-      <td style="text-align: center">Arabization</td>
-      <td style="text-align: center">Expert Systems</td>
+      <td style="text-align: center; width: 50%">Arabization</td>
+      <td style="text-align: center; width: 50%">Expert Systems</td>
     </tr>
   </tbody>
 </table>
