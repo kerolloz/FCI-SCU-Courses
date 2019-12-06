@@ -2,6 +2,15 @@
 
 > Courses taught at Faculty of Computers and Informatics - Suez Canal University 2016-2020
 
+{%- capture list_items -%}
+First Year
+Second Year
+Third Year
+Fourth Year
+{%- endcapture -%}
+
+{% include elements/list.html title="Table of Contents" type="toc" %}
+
 ## First Year
 
 |                          First Term                           |                       Second Term                        |
