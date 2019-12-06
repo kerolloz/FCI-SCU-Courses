@@ -37,7 +37,6 @@ Fourth Year
 
 ### 1st Term
 
-<p class="text-center">
 |                CS                 |              IS               |
 | :-------------------------------: | :---------------------------: |
 |          Web Programming          | Computer Networks Management  |
@@ -46,7 +45,6 @@ Fourth Year
 |   Algorithm Analysis and Design   |   Object Oriented Database    |
 | Introduction to Computer Networks |          E-Business           |
 | Concepts of Programming Languages |        Web Programming        |
-</p>
 
 ### 2nd Term
 
