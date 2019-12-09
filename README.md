@@ -13,7 +13,7 @@ Fourth Year
 
 {% include elements/figure.html image="fci.JPG" caption="Watch out, Don't get too close!" %}
 
-## :one: First Yeare
+## First Year
 
 <table style="width: 100%;display: table;">
   <thead>
@@ -46,7 +46,7 @@ Fourth Year
   </tbody>
 </table>
 
-## :two: Second Year
+## Second Year
 
 <table style="width: 100%;display: table;">
   <thead>
@@ -79,7 +79,7 @@ Fourth Year
   </tbody>
 </table>
 
-## :three: Third Year
+## Third Year
 
 <table style="width: 100%;display: table;">
   <thead>
@@ -151,7 +151,7 @@ Fourth Year
   </tbody>
 </table>
 
-## :four: Fourth Year
+## Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
