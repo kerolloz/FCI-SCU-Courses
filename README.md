@@ -83,12 +83,12 @@ Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
-     <tr>
-      <th style="text-align: center;" colspan="2">1st Term</th>
-    </tr>
     <tr>
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
+    </tr>
+     <tr>
+      <th style="text-align: center;" colspan="2">1st Term</th>
     </tr>
   </thead>
   <tbody>
@@ -155,12 +155,12 @@ Fourth Year
 
 <table style="width: 100%;display: table;">
   <thead>
-     <tr>
-      <th style="text-align: center;" colspan="2">1st Term</th>
-    </tr>
     <tr>
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
+    </tr>
+     <tr>
+      <th style="text-align: center;" colspan="2">1st Term</th>
     </tr>
   </thead>
   <tbody>
