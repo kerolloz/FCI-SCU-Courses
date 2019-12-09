@@ -159,7 +159,7 @@ Fourth Year
       <th style="text-align: center; width: 50%">CS</th>
       <th style="text-align: center; width: 50%">IS</th>
     </tr>
-     <tr>
+    <tr>
       <th style="text-align: center;" colspan="2">1st Term</th>
     </tr>
   </thead>
@@ -183,9 +183,7 @@ Fourth Year
     <tr>
       <td style="text-align: center; width: 50%">Data Mining</td>
       <td style="text-align: center; width: 50%">Data Mining</td>
-
     </tr>
-
   </tbody>
   <thead>
      <tr>
