@@ -9,6 +9,6 @@ author:
   linkedin          : kerolloz
   twitter           : kerolloz
   
-remote_theme: YoussefRaafatNasry/portfolYOU
+remote_theme: YoussefRaafatNasry/portfolYOU@v2.1.0
 plugins:
   - jemoji
