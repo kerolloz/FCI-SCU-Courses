@@ -1,7 +1,6 @@
 # FCI-SCU Courses
 
 > Courses taught at Faculty of Computers and Informatics - Suez Canal University _2016-2020_
->
 
 {%- capture list_items -%}
 First Year
