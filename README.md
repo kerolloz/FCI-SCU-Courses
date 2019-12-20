@@ -1,6 +1,7 @@
 # FCI-SCU Courses
 
 > Courses taught at Faculty of Computers and Informatics - Suez Canal University _2016-2020_
+>
 
 {%- capture list_items -%}
 First Year
@@ -214,11 +215,10 @@ Fourth Year
   </tbody>
 </table>
 
-
 ---
 
 {% capture carousel_images %}
-<https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/s960x960/82188574_2294883783960149_4576660757697003520_o.jpg?_nc_cat=110&_nc_ohc=MgkYdrMpv4sAX_g3b7O&_nc_ht=scontent-hbe1-1.xx&_nc_tp=1002&oh=43923a26aa78ecd7a47de1ea6f6e22fb&oe=5ED1E410>
-<https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/s960x960/82879853_2294883367293524_9158142345600827392_o.jpg?_nc_cat=110&_nc_ohc=toILovytKSoAX89kh5U&_nc_ht=scontent-hbe1-1.xx&_nc_tp=1002&oh=8f32d4041db26325e61d414657cf9f81&oe=5E99CC17>
+https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/s960x960/82188574_2294883783960149_4576660757697003520_o.jpg?_nc_cat=110&_nc_ohc=MgkYdrMpv4sAX_g3b7O&_nc_ht=scontent-hbe1-1.xx&_nc_tp=1002&oh=43923a26aa78ecd7a47de1ea6f6e22fb&oe=5ED1E410
+https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/s960x960/82879853_2294883367293524_9158142345600827392_o.jpg?_nc_cat=110&_nc_ohc=toILovytKSoAX89kh5U&_nc_ht=scontent-hbe1-1.xx&_nc_tp=1002&oh=8f32d4041db26325e61d414657cf9f81&oe=5E99CC17
 {% endcapture %}
 {% include elements/carousel.html %}
