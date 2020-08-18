@@ -196,7 +196,7 @@ Fourth Year
       <td style="text-align: center; width: 50%">Distributed Database</td>
     </tr>
     <tr>
-      <td style="text-align: center; width: 50%">Parallel Processing</td>
+      <td style="text-align: center; width: 50%">Wireleess Communication</td>
       <td style="text-align: center; width: 50%">Data Warehouse</td>
     </tr>
     <tr>
